@@ -1,0 +1,27 @@
+_repo: The-Gutenberg-Webster-s-Unabridged-Dictionary-Section-X-Y-and-Z_670
+creator:
+  authors:
+  - agent_name: Webster, Noah
+    birthdate: 1758
+    deathdate: 1843
+    gutenberg_agent_id: '139'
+    url: http://www.gutenberg.org/2009/agents/139
+    wikipedia: http://en.wikipedia.org/wiki/Noah_Webster
+  - agent_name: Project Gutenberg
+    alias: Gutenberg, Project
+    gutenberg_agent_id: '114'
+    url: http://www.gutenberg.org/2009/agents/114
+description: Section X, Y, and Z
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '670'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Dictionaries'
+title: "The Gutenberg Webster's Unabridged Dictionary\r\nSection X, Y, and Z"
+url: http://www.gutenberg.org/ebooks/670
